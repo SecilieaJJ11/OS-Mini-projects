@@ -25,3 +25,10 @@ processes independently manage multiple driver tasks using threads.
 - `pthread_join()`
 - Process Synchronization
 - Concurrent Execution
+
+
+## Program Output
+
+### SPMT
+
+![SPMT Program Output](SPMT/spmt_output.png)
