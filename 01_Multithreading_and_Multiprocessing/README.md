@@ -32,3 +32,7 @@ processes independently manage multiple driver tasks using threads.
 ### SPMT
 
 ![SPMT Program Output](SPMT/spmt_output.png)
+
+### MPMT
+
+![MPMT Program Output](MPMT/mpmt_output.png)
