@@ -24,3 +24,7 @@ details at the same time.
 * Shared Resources
 * Process Synchronization
 * Concurrent Access
+
+## Program Output
+
+![Reader-Writer Program Output](rw_output.png)
