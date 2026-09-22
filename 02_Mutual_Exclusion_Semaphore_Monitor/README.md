@@ -35,3 +35,11 @@ concepts for safe concurrent seat booking.
 * Critical Section
 * Process Synchronization
 * Race Condition
+
+
+
+## Program Output
+
+### Mutex
+
+![Mutex Program Output](Mutex/mutex_output.png)
