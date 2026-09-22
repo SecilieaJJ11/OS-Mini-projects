@@ -29,3 +29,7 @@ It helps understand:
 * Starvation
 * Shared Resources
 * Process Synchronization
+
+## Program Output
+
+![Dining Philosophers Program Output](diningphilo_output.png)
