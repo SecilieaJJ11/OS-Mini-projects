@@ -43,3 +43,7 @@ and ensuring that the system remains in a safe state.
 ### Deadlock Handling
 
 ![Deadlock Handling Program Output](Deadlock_Handling/seven_b_output.png)
+
+### Banker's Algorithm
+
+![Banker's Algorithm Program Output](Bankers_Algorithm/seventh_c_output.png)
