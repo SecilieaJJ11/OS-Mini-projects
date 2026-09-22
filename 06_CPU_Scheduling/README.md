@@ -36,3 +36,7 @@ burst time first.
 ### FCFS
 
 ![FCFS Program Output](FCFS/eight_a_output.png)
+
+### SJF
+
+![SJF Program Output](SJF/eight_b_output.png)
