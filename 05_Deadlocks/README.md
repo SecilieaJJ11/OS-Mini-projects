@@ -39,3 +39,7 @@ and ensuring that the system remains in a safe state.
 ### Deadlock
 
 ![Deadlock Program Output](Deadlock/seven_a_output.png)
+
+### Deadlock Handling
+
+![Deadlock Handling Program Output](Deadlock_Handling/seven_b_output.png)
