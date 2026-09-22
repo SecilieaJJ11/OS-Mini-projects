@@ -30,3 +30,9 @@ burst time first.
 * Waiting Time
 * Turnaround Time
 * Process Execution
+
+## Program Output
+
+### FCFS
+
+![FCFS Program Output](FCFS/eight_a_output.png)
