@@ -33,3 +33,9 @@ and ensuring that the system remains in a safe state.
 * Safe State
 * Banker's Algorithm
 * Process Synchronization
+
+## Program Output
+
+### Deadlock
+
+![Deadlock Program Output](Deadlock/seven_a_output.png)
