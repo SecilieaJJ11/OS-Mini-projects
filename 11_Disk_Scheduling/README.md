@@ -47,3 +47,6 @@ C-SCAN services requests in one direction. After reaching the end, the head retu
 
 ### C-SCAN
 ![C-SCAN Output](C_SCAN/cscan_disk_output.png)
+
+### LOOK
+![LOOK Output](LOOK/look_disk_output.png)
