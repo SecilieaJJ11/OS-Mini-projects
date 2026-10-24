@@ -31,7 +31,7 @@ Demonstrates FIFO page replacement using a cache of map tile requests.
 ## Program Output
 
 ### FIFO
-![FIFO Output](FIFO/fifo_output.png)
+![FIFO Output](FIFO/fifo_part_a_change.jpeg)
 
 ### Page Replacement
 ![Page Replacement Output](Page_Replacement/pg_replace_output.png)

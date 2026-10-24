@@ -38,11 +38,11 @@ and ensuring that the system remains in a safe state.
 
 ### Deadlock
 
-![Deadlock Program Output](Deadlock/seven_a_output.png)
+![Deadlock Program Output](Deadlock/deadlock_part_a_change.jpeg)
 
 ### Deadlock Handling
 
-![Deadlock Handling Program Output](Deadlock_Handling/seven_b_output.png)
+![Deadlock Handling Program Output](Deadlock_Handling/deadlock_part_b_change.jpeg)
 
 ### Banker's Algorithm
 
