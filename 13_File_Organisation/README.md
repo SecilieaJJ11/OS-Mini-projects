@@ -30,8 +30,8 @@ A two-level directory organises files using users and their file names. The prog
 
 ### Single-Level Directory
 
-![Single-Level Output](one_level_change.jpeg)
+![Single-Level Output](Single_Level/one_level_change.jpeg)
 
 ### Two-Level Directory
 
-![Two-Level Output](two_level_change.jpeg)
+![Two-Level Output](Two_Level/two_level_change.jpeg)
