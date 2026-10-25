@@ -25,7 +25,7 @@ Demonstrates LFU cache replacement using product IDs. Each item has a frequency 
 ## Program Output
 
 ### LRU
-![LRU Output](LRU/lru_output.png)
+![LRU Output](LRU/lru_output.jpeg)
 
 ### LFU
-![LFU Output](LFU/lfu_output.png)
+![LFU Output](LFU/lfu_output.jpeg)

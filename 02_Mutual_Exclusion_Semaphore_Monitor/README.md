@@ -45,8 +45,8 @@ concepts for safe concurrent seat booking.
 ![Mutex Program Output](Mutex/mutex_output.png)
 ### Semaphore
 
-![Semaphore Program Output](Mutex_and_Semaphore/semaphore_output.png)
+![Semaphore Program Output](Mutex_and_Semaphore/semaphore_output.jpeg)
 ### Monitor
 
-![Monitor Program Output](Mutex_Semaphore_and_Monitor/monitor_output.png)
+![Monitor Program Output](Mutex_Semaphore_and_Monitor/monitor_output.jpeg)
 
